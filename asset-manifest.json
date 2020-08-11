@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/google-search-app/static/css/main.00550d83.chunk.css",
+    "main.js": "/google-search-app/static/js/main.1af6ff20.chunk.js",
+    "main.js.map": "/google-search-app/static/js/main.1af6ff20.chunk.js.map",
+    "runtime-main.js": "/google-search-app/static/js/runtime-main.c0e4cd88.js",
+    "runtime-main.js.map": "/google-search-app/static/js/runtime-main.c0e4cd88.js.map",
+    "static/js/2.453bc1fd.chunk.js": "/google-search-app/static/js/2.453bc1fd.chunk.js",
+    "static/js/2.453bc1fd.chunk.js.map": "/google-search-app/static/js/2.453bc1fd.chunk.js.map",
+    "index.html": "/google-search-app/index.html",
+    "precache-manifest.d9722e4e7d75c980d7b37ff2e935c76b.js": "/google-search-app/precache-manifest.d9722e4e7d75c980d7b37ff2e935c76b.js",
+    "service-worker.js": "/google-search-app/service-worker.js",
+    "static/css/main.00550d83.chunk.css.map": "/google-search-app/static/css/main.00550d83.chunk.css.map",
+    "static/js/2.453bc1fd.chunk.js.LICENSE.txt": "/google-search-app/static/js/2.453bc1fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0e4cd88.js",
+    "static/js/2.453bc1fd.chunk.js",
+    "static/css/main.00550d83.chunk.css",
+    "static/js/main.1af6ff20.chunk.js"
+  ]
+}
